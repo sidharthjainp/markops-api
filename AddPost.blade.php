@@ -9,6 +9,8 @@
          height: 52vh !important;
       }
       </style>
+
+      
    </head>
    <body class="main-body leftmenu">
       <!-- End Switcher --> <!-- Loader --> 
